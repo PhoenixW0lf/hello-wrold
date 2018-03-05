@@ -1,2 +1,4 @@
 # hello-wrold
-Just another repository
+
+Konichiwa!
+I'd like to learn more about game-development and 
